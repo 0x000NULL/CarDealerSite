@@ -7,14 +7,14 @@
 
 # Car-Dealership-System-using-NodeJS-Express-MongoDB
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Stars&logo=github&style=flat)
-![Github forks](https://img.shields.io/github/forks/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Forks&logo=github&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Issues&color=yellow&logo=github&style=flat)
-![GitHub License](https://img.shields.io/github/license/defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=License)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB/total?label=Downloads&color=red)](https://github.com/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB/releases)
-![Visits Badge](https://badges.pufler.dev/visits/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB?color=14BF96)
-<!-- [![GitHub pull requests](https://img.shields.io/github/issues-pr/Defcon27/CarsNV-Car-Dealership-System-using-NodeJS-Express-MongoDB)] -->
+![GitHub last commit](https://img.shields.io/github/last-commit/0x000NULL/CarDealerSite?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/0x000NULL/CarDealerSite?label=Stars&logo=github&style=flat)
+![Github forks](https://img.shields.io/github/forks/0x000NULL/CarDealerSite?label=Forks&logo=github&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/0x000NULL/CarDealerSite?label=Issues&color=yellow&logo=github&style=flat)
+![GitHub License](https://img.shields.io/github/license/0x000NULL/CarDealerSite?label=License)
+[![GitHub All Releases](https://img.shields.io/github/downloads/0x000NULL/CarDealerSite/total?label=Downloads&color=red)](https://github.com/0x000NULL/CarDealerSite/releases)
+![Visits Badge](https://badges.pufler.dev/visits/0x000NULL/CarDealerSite?color=14BF96)
+<!-- [![GitHub pull requests](https://img.shields.io/github/issues-pr/0x000NULL/CarDealerSite)] -->
 
 </div>
 <br/>
