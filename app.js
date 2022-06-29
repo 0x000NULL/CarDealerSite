@@ -7,8 +7,7 @@ const exphbs = require('express-handlebars');
 const mongoose = require('mongoose');
 const compression = require('compression');
 
-const electricRouter = require('./routes/electric_index');
-const gasRouter = require('./routes/gas_index');
+const carRouter = require('./routes/car_index');
 const adminRouter = require('./routes/admin');
 var UserModel = require("./models/CustomerModel");
 const app = express();
@@ -17,7 +16,7 @@ const app = express();
 //Connecting to Mongodb
 const db = async () => {
     try {
-        const conn = await mongoose.connect('mongodb://localhost:27017/autorizz', {
+        const conn = await mongoose.connect('mongodb://localhost:27017/CarsNV', {
             useNewUrlParser: true,
             useUnifiedTopology: true,
             useFindAndModify: false
@@ -66,8 +65,7 @@ app.get('/home', function (req, res) {
 });
 
 app.use('/admin', adminRouter);
-app.use('/electric', electricRouter);
-app.use('/gas', gasRouter);
+app.use('/cars', carRouter);
 
 
 //Users

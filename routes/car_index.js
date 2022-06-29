@@ -10,7 +10,7 @@ router.use(express.static("public"));
 router.get('/', async function (req, res) {
 
     let gas_models = await GasModel.find();
-    res.render("gas_index.hbs", { models: gas_models });
+    res.render("car_index.hbs", { models: gas_models });
 
 });
 
@@ -103,7 +103,7 @@ router.get('/filter', async function (req, res) {
 
 
     //console.log(filtered_models);
-    res.render("gas_index.hbs", { models: filtered_models });
+    res.render("car_index.hbs", { models: filtered_models });
 
 });
 
@@ -119,13 +119,13 @@ router.get('/booknow/:id', async function (req, res) {
 
     let booked_model = await GasModel.findById(modelid);
     //console.log(booked_model);
-    res.render("gasbooking.hbs", { model: booked_model });
+    res.render("carbooking.hbs", { model: booked_model });
 
 });
 
 router.get('/filter/booknow/:id', async (req, res) => {
     let modelid = req.params.id;
-    res.redirect('/gas/booknow/' + modelid);
+    res.redirect('/cars/booknow/' + modelid);
 });
 
 
